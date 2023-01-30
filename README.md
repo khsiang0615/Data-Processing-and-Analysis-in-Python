@@ -12,7 +12,7 @@ The project can be broken down into following steps:
   - Calculation
   - Visualization
   - Trend identification
-  - Conclusion (business recommendations)
+4. Conclusion (business recommendations)
   
 Libraries Used
   - Numpy
